@@ -16,7 +16,7 @@
 			<div class="content">
 				<div class="row">
 					<div class="col-sm-5 col-5">
-						<h4 class="page-title">Departments</h4>
+						<h4 class="page-title">Departments--2</h4>
 					</div>
 					<div class="col-sm-7 col-7 text-right m-b-30">
 						<a href="${requestContext.path}/departments/viewAddDeptPage"
